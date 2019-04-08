@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\in"
+/ref:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Вадим\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\Contact_List.UWP.Sg"
+"@C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\Contact_List.UWP.Sg\ComputedSerializationInput.txt"

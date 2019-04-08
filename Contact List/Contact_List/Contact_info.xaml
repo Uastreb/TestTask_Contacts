@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contact_List.Contact_info" Title="Информация о контакте">>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Text="Назад" Priority="0" Clicked="Cancel"/>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Text="Изменить" Priority="1" Clicked="ChangeContact"/>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Text="Удалить" Priority="2" Clicked="DeleteContact"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <Image Source="contact.jpg" WidthRequest="200" HeightRequest="200" HorizontalOptions="Center" VerticalOptions="End" TranslationY="50" />
+        <Label Text="{Binding Name}" Style="{DynamicResource TitleStyle}" HorizontalOptions="Center" Margin="0,100,0,0" />
+        <Label Text="{Binding Phone}" x:Name="PhoneNumber" HorizontalOptions="Center" Margin="0,10,0,0" />
+        <Button Text="Call" Clicked="Call"  WidthRequest="100" HeightRequest="50" HorizontalOptions="Center" BackgroundColor="Green" />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-K005L4J</Machine>
+    <WindowsUser>Вадим</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=d3ec2be6-074e-4b78-914d-1a9ea90da0d7</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A483E9293A2EAB08EEA45B769755E4CF97AC4713C1B0442F85A23486A4FD5DCF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5020e14e-fbde-4bb5-9dd1-49734aeb4025_1.0.0.0_x86__emvntq6bgm0w2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5020e14e-fbde-4bb5-9dd1-49734aeb4025_emvntq6bgm0w2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5020e14e-fbde-4bb5-9dd1-49734aeb4025</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=d3ec2be6-074e-4b78-914d-1a9ea90da0d7</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-08T09:59:41.171</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:53.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-05T15:00:54.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-05-16T14:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\contact.jpg">
+      <PackagePath>contact.jpg</PackagePath>
+      <Modified>2019-04-07T17:04:01.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Contact_List.UWP.dll">
+      <PackagePath>Contact_List.UWP.dll</PackagePath>
+      <Modified>2019-04-08T09:59:38.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Contact_List.UWP.exe">
+      <PackagePath>Contact_List.UWP.exe</PackagePath>
+      <Modified>2019-04-08T09:59:40.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\Contact_List.UWP.pdb">
+      <PackagePath>Contact_List.UWP.pdb</PackagePath>
+      <Modified>2019-04-08T09:59:40.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2018-05-02T08:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-04-08T09:57:46.012</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Вадим\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Вадим\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

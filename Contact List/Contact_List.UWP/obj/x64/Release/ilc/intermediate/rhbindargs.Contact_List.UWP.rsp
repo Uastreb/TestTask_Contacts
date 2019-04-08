@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\MDIL\Contact_List.UWP.mdilexe"
+"/i:C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\Native\Contact_List.UWP.exe"
+"/pdbAltPath:C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\bin\x64\Release\ilc"
+"/res:C:\Users\Вадим\source\repos\Contact_List\Contact_List\Contact_List.UWP\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Вадим\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
